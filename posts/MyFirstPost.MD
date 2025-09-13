@@ -18,9 +18,15 @@ I am learning Git and GitHub not just for me, but to benefit my students.
 ##### Heading 5
 ```
 
+```
 - 1st level bullet Point
     - 2nd level bullet point
+```
 
+```
 **bold**
+```
 
+```
 ```line of code```
+```
